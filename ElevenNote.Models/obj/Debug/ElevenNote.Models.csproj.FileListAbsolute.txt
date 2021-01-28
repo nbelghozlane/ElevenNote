@@ -1,0 +1,16 @@
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\ElevenFifty Projects\DotNetProjects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
